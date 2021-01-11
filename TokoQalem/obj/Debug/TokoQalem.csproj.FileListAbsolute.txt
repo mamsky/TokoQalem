@@ -1,5 +1,4 @@
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\bin\Debug\TokoQalem.exe.config
-c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.csprojResolveAssemblyReference.cache
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\MainWindow.g.cs
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\App.g.cs
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem_MarkupCompile.cache
@@ -16,3 +15,5 @@ c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQale
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.csproj.GenerateResource.Cache
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.exe
 c:\users\paste prosmana\documents\visual studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.pdb
+C:\Users\Paste Prosmana\Documents\Visual Studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.csprojAssemblyReference.cache
+C:\Users\Paste Prosmana\Documents\Visual Studio 2015\Projects\TokoQalem\TokoQalem\obj\Debug\TokoQalem.csproj.CoreCompileInputs.cache
